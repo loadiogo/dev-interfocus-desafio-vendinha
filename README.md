@@ -21,16 +21,22 @@ Para executar o projeto, abra o terminal e execute os comandos a seguir:
 
 * *Abre a pasta do projeto*
 
-    ``cd .\backend\TemplateApi``
+    ```bash
+    cd .\backend\TemplateApi
+    ```
 
 * *Executa o projeto*
 
-    ``dotnet run .\TemplateApi.csproj``
+    ```bash
+    dotnet run .\TemplateApi.csproj
+    ```
 
     
 * *A aplicação estará rodando no endereço e porta:*
 
-    ``http://localhost:5000``
+    ```bash
+    http://localhost:5000
+    ```
 
 
 ### **Rodando projeto frontend**
@@ -39,19 +45,27 @@ Para executar o projeto, abra o terminal e execute os comandos a seguir:
 
 * *Abre a pasta do projeto*
 
-    ``cd .\frontend``
+    ```bash
+    cd .\frontend
+    ```
 
 * *Instala dependencias*
 
-    ``npm install``
+    ```bash
+    npm install
+    ```
 
 * *Executa o projeto com o live-server*
 
-    ``npm start``
+    ```bash
+    npm start
+    ```
 
 * *A aplicação estará rodando no endereço e porta:*
 
-    ``http://127.0.0.1:8080``
+    ```bash
+    http://127.0.0.1:8080
+    ```
 
 ## **Cenário**
 
