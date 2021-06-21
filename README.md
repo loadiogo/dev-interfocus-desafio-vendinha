@@ -8,11 +8,11 @@ Caso queira utilizar o template, siga os passos abaixo.
 
 * Clique no botão "Use this template":
   
-![](https://ias-release-note.s3.amazonaws.com/ImagemUpload/c9e84435-274a-44e8-8882-1847e6d2d236template-github1.png)
+![template-github1](https://user-images.githubusercontent.com/6816159/122781703-75e00b80-d286-11eb-9661-eee065e13720.png)
 
 * Preencha um nome para o repositório e clique em "Create repository from template":
-
-![](https://ias-release-note.s3.amazonaws.com/ImagemUpload/f21de1c0-5dd2-4134-972a-8dcd07742a46template-github2.png)
+ 
+![template-github2](https://user-images.githubusercontent.com/6816159/122781724-7c6e8300-d286-11eb-9969-475e1b370515.png)
 
 
 ### **Rodando projeto backend**
@@ -120,4 +120,6 @@ Serão avaliados nesse projeto o seu domínio nas tecnologias .NET e Javascript,
 
 ## Resultado final
 
-![](https://ias-release-note.s3.amazonaws.com/ImagemUpload/e77e833a-787e-462a-8bcc-628b9f2b9250video_vendinha_demo.mov)
+https://user-images.githubusercontent.com/6816159/122781646-68c31c80-d286-11eb-93e4-c342ccb1e463.mov
+
+
